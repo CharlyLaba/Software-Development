@@ -3,8 +3,8 @@
 Today is a **very** cloudy day!  
 [_Check today's weather_](https://www.bbc.com/weather/3117735)  
 I hope the sun comes out so we could go to the _Retiro park_.  
-Are you [cold]?  
-[cold]:https://www.zara.com/uk/en/woman-jackets-l1114.html  
+Are you [cold] ?  
+[cold]: https://www.zara.com/uk/en/woman-jackets-l1114.html  
 >
 Otherwise, check out things to do at the [retiro park]   
 [retiro park]:https://theculturetrip.com/europe/spain/articles/6-cool-things-to-see-in-madrids-retiro-park/  
