@@ -7,7 +7,7 @@ Are you [cold][another link]?
 >
 Otherwise, check out things to do at the [retiro park][link2]  
 >
-People always talk about  >"how sunny madrid always is"   
+> People always talk about "how sunny madrid always is"   
 >
 Other than the retiro park, there are so many other places to visit in Madrid, such as:  
  * The Royal Palace
