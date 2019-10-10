@@ -1,7 +1,7 @@
 # Software-Development
 ### Good Morning  
 Today is a **very** cloudy day!  
-_[Check today's weather]_(https://www.bbc.com/weather/3117735)  
+[_Check today's weather_](https://www.bbc.com/weather/3117735)  
 I hope the sun comes out so we could go to the _Retiro park_.  
 Are you [cold]?  
 [cold]:https://www.zara.com/uk/en/woman-jackets-l1114.html  
