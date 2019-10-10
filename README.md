@@ -11,7 +11,7 @@ Otherwise, check out things to do at the [retiro park]
 ![Crystal Palace][Crystal]  
 [Crystal]:https://www.encirclephotos.com/image/crystal-palace-at-buen-retiro-park-in-madrid-spain/  
 People always talk about >"how sunny madrid always is"  
-Other than the retiro park, there are so many other places to visit in Madrid, such as:
+Other than the retiro park, there are so many other places to visit in Madrid, such as:  
 * The Royal Palace
 * Plaza Mayor
 * Museo del Prado
