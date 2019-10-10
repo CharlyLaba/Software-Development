@@ -8,9 +8,9 @@ Are you [cold][another link]?
 Otherwise, check out things to do at the [retiro park][link2]
 
 >
-![A Sunny day at the retiro park](http://es.fanpop.com/clubs/madrid/images/6284833/title/madrid-retiro-park-photo)  
+![A Sunny day at the retiro park](http://es.fanpop.com/clubs/madrid/images/6284833/title/madrid-retiro-park-photo). 
 ![Crystal Palace][Crystal]  
-[Crystal]:https://www.encirclephotos.com/image/crystal-palace-at-buen-retiro-park-in-madrid-spain/  
+  
 >
 People always talk about > "how sunny madrid always is"  
 >
@@ -22,3 +22,4 @@ Other than the retiro park, there are so many other places to visit in Madrid, s
  
 [another link]: https://www.zara.com/uk/en/woman-jackets-l1114.html
 [link2]: https://theculturetrip.com/europe/spain/articles/6-cool-things-to-see-in-madrids-retiro-park/  
+[Crystal]: https://www.encirclephotos.com/image/crystal-palace-at-buen-retiro-park-in-madrid-spain/
