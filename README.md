@@ -6,6 +6,7 @@ I hope the sun comes out so we could go to the _Retiro park_.
 Are you [cold][another link]?  
 >
 Otherwise, check out things to do at the [retiro park][link2]  
+![Crystal Palace](https://upload.wikimedia.org/wikipedia/commons/a/a0/Parque_del_Buen_Retiro_PalacioCristal03.jpg)
 >
 > People always talk about "how sunny madrid always is"   
 >
